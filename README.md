@@ -1,6 +1,7 @@
 # discord-id-sorgu
 Discord ID ile Sorgulama Hizmeti. Discord ID ile mail adresi, IP adresi gibi bilgileri bulun.
 
+
 Kullanım:
 
 Discord'da bir sunucu oluşturun. (Veya halihazırda var olan varsa kullanabilirsiniz)
@@ -14,6 +15,7 @@ Discord sunucunuzda bir kanalda webhook oluşturun.
 Webhook URL'sini konsola yazın.
 
 Gereksinimlerin (modüllerin) yüklenmesini bekleyin.
+
 
 Bilgi:
 Data bana aittir ve izinsiz kullanımı yasaktır. Bu toolu kullanarak oluşan/oluşabilecek olumusuzluklarda sorumluluk kabul etmiyorum.
