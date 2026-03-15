@@ -23,9 +23,9 @@ Discord ID ile Sorgulama Hizmeti. Discord ID ile mail adresi, IP adresi gibi bil
 
 ℹ️ **Bilgi:**
 
-●Data bana aittir ve izinsiz kullanımı yasaktır. Bu toolu kullanarak oluşan/oluşabilecek olumusuzluklarda sorumluluk kabul etmiyorum.
+● Data bana aittir ve izinsiz kullanımı yasaktır. Bu toolu kullanarak oluşan/oluşabilecek olumusuzluklarda sorumluluk kabul etmiyorum.
 Sorumluluk toolu kullanan kişiye aittir.
 
-●Virustotal taraması yapabilirsiniz. Dosyalarda herhangi bir yerde .exe dosyası bulunmamakta.
+● Virustotal taraması yapabilirsiniz. Dosyalarda herhangi bir yerde .exe dosyası bulunmamakta.
 
-●Yardım & Destek: @satanrepublic
+● Yardım & Destek: @satanrepublic
